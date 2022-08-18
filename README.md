@@ -1,7 +1,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Caglar Kullu!
 ---
-My Linkedin account
+My Linkedin account /p
 [![My Linkedin account](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caglar-kullu-b23085163/)
 <!--
 **CaglarKullu/CaglarKullu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
