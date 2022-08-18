@@ -7,6 +7,7 @@
 I graduated as a Chemist scientist with an Engineering Master's degree. About a year ago, I decided to follow my
 dream to create some ideas of my own as a mobile application and started to learn the programming language Dart
 to create cross-platform apps on Flutter framework.
+
 During last year, I gained experience with SQLite, Restful Api, Database Modelling, State Management Tools such as Provider
 and Riverpod, UX and pixel-perfect UI design. My desire is to continue my professional career as a front-end app
 developer where I can create, see the end product, learn indefinitely and share my knowledge.
