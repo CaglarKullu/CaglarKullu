@@ -11,6 +11,10 @@ to create cross-platform apps on Flutter framework.
 During last year, I gained experience with SQLite, Restful Api, Database Modelling, State Management Tools such as Provider
 and Riverpod, UX and pixel-perfect UI design. My desire is to continue my professional career as a front-end app
 developer where I can create, see the end product, learn indefinitely and share my knowledge.
+---
+🧰 Toolbox
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="Dart" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQlite" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <!--
 **CaglarKullu/CaglarKullu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
