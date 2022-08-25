@@ -2,7 +2,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Caglar Kullu!
 ---
 
-[![My Linkedin account](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caglar-kullu-b23085163/)
+You can click to the icons below for either my linkedin account or to go to my app on Google Play 
+
+ [![My Linkedin account](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caglar-kullu-b23085163/) [<img src="https://user-images.githubusercontent.com/97615706/186714357-d2154cbf-53e0-4132-9b95-e0768dd5066c.png" width="50"/>](https://play.google.com/store/apps/details?id=com.ctksoftware.feedly) 
 ---
 ###### I graduated as a Chemist scientist with an Engineering Master's degree. Awhile ago, I decided to follow my dream to create some ideas of my own as a mobile application and started to learn the programming language Dart to create cross-platform apps on Flutter framework. 
 
