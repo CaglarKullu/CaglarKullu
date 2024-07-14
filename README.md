@@ -6,9 +6,16 @@ You can click on the icons below for either my linkedin account or to go to my l
 
  [![My Linkedin account](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caglar-kullu-b23085163/) [<img src="https://user-images.githubusercontent.com/97615706/186714357-d2154cbf-53e0-4132-9b95-e0768dd5066c.png" width="50"/>](https://play.google.com/store/apps/details?id=com.ctksoftware.feedly) [<img src="https://user-images.githubusercontent.com/97615706/210624263-97c00d6d-c59c-4e06-b7c0-326fe8f0cbb7.png" width="50"/>](https://play.google.com/store/apps/details?id=com.ctksoftware.surpriseme&hl=en_US&gl=US) 
 ---
-###### I am flutter developer who focusing on mainly mobile app development. Awhile ago, I decided to follow my dream to create some ideas of my own as a mobile application and started to learn the programming language Dart to create cross-platform apps on Flutter framework. 
+###### I am an experienced Flutter developer with three years of specializing in mobile app development. Driven by a passion for creating innovative mobile applications, I embarked on learning Dart to leverage the Flutter framework for cross-platform development.
 
-###### During last year, I gained experience with SQLite, Firebase, Restful Api, Database Modelling, State Management Tools such as Provider and Riverpod, UX and pixel-perfect UI design. My desire is to continue my professional career as a mobile app developer where I can create, see the end product, learn indefinitely and share my knowledge.
+I have gained substantial experience in:
+- SQLite and Firebase for data management
+- RESTful APIs for backend communication
+- Database Modelling for efficient data architecture
+- State Management Tools such as Provider and Riverpod for optimal app performance
+- UX and pixel-perfect UI design to enhance user experience
+
+Recently, I have expanded my skill set to include React, Node.js, TypeScript, and JavaScript. My goal is to continue my professional career as a mobile app developer, where I can bring ideas to life, witness the impact of my work, engage in continuous learning, and share my knowledge with others.
 ---
 🧰 Toolbox
 
