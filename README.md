@@ -8,14 +8,14 @@ You can click on the icons below for either my linkedin account or to go to my l
 ---
 ###### I am an experienced Flutter developer with three years of specializing in mobile app development. Driven by a passion for creating innovative mobile applications, I embarked on learning Dart to leverage the Flutter framework for cross-platform development.
 
-I have gained substantial experience in:
-- SQLite and Firebase for data management
-- RESTful APIs for backend communication
-- Database Modelling for efficient data architecture
-- State Management Tools such as Provider and Riverpod for optimal app performance
-- UX and pixel-perfect UI design to enhance user experience
+###### I have gained substantial experience in:
+###### - SQLite and Firebase for data management
+###### - RESTful APIs for backend communication
+###### - Database Modelling for efficient data architecture
+###### - State Management Tools such as Provider and Riverpod for optimal app performance
+###### - UX and pixel-perfect UI design to enhance user experience
 
-Recently, I have expanded my skill set to include React, Node.js, TypeScript, and JavaScript. My goal is to continue my professional career as a mobile app developer, where I can bring ideas to life, witness the impact of my work, engage in continuous learning, and share my knowledge with others.
+###### Recently, I have expanded my skill set to include React, Node.js, TypeScript, and JavaScript. My goal is to continue my professional career as a mobile app developer, where I can bring ideas to life, ###### witness the impact of my work, engage in continuous learning, and share my knowledge with others.
 ---
 🧰 Toolbox
 
