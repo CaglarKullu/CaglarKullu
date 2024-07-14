@@ -15,7 +15,7 @@ You can click on the icons below for either my linkedin account or to go to my l
 ###### - State Management Tools such as Provider and Riverpod for optimal app performance
 ###### - UX and pixel-perfect UI design to enhance user experience
 
-###### Recently, I have expanded my skill set to include React, Node.js, TypeScript, and JavaScript. My goal is to continue my professional career as a mobile app developer, where I can bring ideas to life, ###### witness the impact of my work, engage in continuous learning, and share my knowledge with others.
+###### Recently, I have expanded my skill set to include React, Node.js, TypeScript, and JavaScript. My goal is to continue my professional career as a mobile app developer, where I can bring ideas to life, witness the impact of my work, engage in continuous learning, and share my knowledge with others.
 ---
 🧰 Toolbox
 
